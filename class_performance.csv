@@ -1,0 +1,60 @@
+class,detection_count,avg_confidence
+person,79,0.678
+book,44,0.524
+chair,41,0.529
+umbrella,28,0.527
+donut,20,0.865
+bottle,17,0.57
+car,16,0.561
+wine glass,14,0.443
+spoon,12,0.597
+teddy bear,10,0.685
+elephant,9,0.897
+truck,8,0.838
+potted plant,8,0.746
+cup,8,0.546
+clock,6,0.784
+boat,6,0.534
+knife,5,0.616
+giraffe,5,0.762
+dog,4,0.932
+backpack,4,0.465
+traffic light,4,0.361
+dining table,4,0.749
+handbag,4,0.548
+zebra,4,0.954
+laptop,4,0.558
+bench,4,0.741
+motorcycle,3,0.53
+baseball glove,3,0.763
+baseball bat,3,0.633
+bowl,3,0.771
+sink,3,0.592
+microwave,3,0.655
+tennis racket,2,0.848
+toilet,2,0.61
+train,2,0.637
+sandwich,2,0.957
+pizza,2,0.771
+airplane,2,0.825
+hot dog,2,0.992
+bus,1,0.921
+banana,1,0.979
+sports ball,1,0.869
+cat,1,0.913
+frisbee,1,0.833
+cell phone,1,0.457
+tv,1,0.927
+suitcase,1,0.971
+skateboard,1,0.815
+tie,1,0.52
+snowboard,1,0.791
+couch,1,0.949
+remote,1,0.911
+mouse,1,0.824
+refrigerator,1,0.966
+oven,1,0.353
+stop sign,1,0.91
+bed,1,0.859
+cake,1,0.935
+vase,1,0.987

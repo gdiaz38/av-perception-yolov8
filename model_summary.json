@@ -1,0 +1,54 @@
+{
+  "model": "yolov8n",
+  "dataset": "COCO128",
+  "epochs": 30,
+  "map50": 0.868,
+  "map50_95": 0.687,
+  "inference_ms": 4.1,
+  "total_images": 50,
+  "total_detections": 420,
+  "unique_classes": 59,
+  "avg_confidence": 0.643,
+  "top_classes": [
+    [
+      "person",
+      79
+    ],
+    [
+      "book",
+      44
+    ],
+    [
+      "chair",
+      41
+    ],
+    [
+      "umbrella",
+      28
+    ],
+    [
+      "donut",
+      20
+    ],
+    [
+      "bottle",
+      17
+    ],
+    [
+      "car",
+      16
+    ],
+    [
+      "wine glass",
+      14
+    ],
+    [
+      "spoon",
+      12
+    ],
+    [
+      "teddy bear",
+      10
+    ]
+  ]
+}

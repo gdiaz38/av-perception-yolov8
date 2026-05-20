@@ -1,0 +1,421 @@
+image,class,confidence,timestamp,model,map50,location
+000000000415.jpg,person,0.9265,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000415.jpg,tennis racket,0.8932,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000629.jpg,motorcycle,0.9513,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000078.jpg,clock,0.9797,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000078.jpg,toilet,0.3301,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000309.jpg,teddy bear,0.9532,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000309.jpg,teddy bear,0.9216,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000309.jpg,dog,0.8354,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000309.jpg,teddy bear,0.6561,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000309.jpg,teddy bear,0.4923,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000309.jpg,teddy bear,0.2545,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,truck,0.9888,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,truck,0.9827,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,truck,0.9804,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,truck,0.9003,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,person,0.8265,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,person,0.8009,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,truck,0.7903,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,person,0.7845,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,person,0.7661,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,backpack,0.7523,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,person,0.7507,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,person,0.7344,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,person,0.7164,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,truck,0.6222,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,person,0.6142,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,person,0.5805,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,backpack,0.5718,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,person,0.5523,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,person,0.5181,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,person,0.4954,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,person,0.49,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,traffic light,0.4725,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,person,0.4556,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,person,0.3521,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,motorcycle,0.3448,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,person,0.3083,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,person,0.3018,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,motorcycle,0.2938,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,person,0.2778,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,backpack,0.2773,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,traffic light,0.2615,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,backpack,0.2581,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000257.jpg,person,0.2554,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000438.jpg,donut,0.9983,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000438.jpg,donut,0.9956,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000438.jpg,donut,0.9931,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000438.jpg,donut,0.9843,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000438.jpg,donut,0.9837,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000438.jpg,donut,0.9835,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000438.jpg,donut,0.9775,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000438.jpg,donut,0.9771,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000438.jpg,donut,0.9756,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000438.jpg,donut,0.945,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000438.jpg,donut,0.9404,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000438.jpg,donut,0.9291,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000438.jpg,donut,0.8525,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000438.jpg,donut,0.8281,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000438.jpg,donut,0.7031,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000438.jpg,donut,0.6898,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000438.jpg,donut,0.6781,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000438.jpg,donut,0.4948,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000438.jpg,donut,0.4179,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000623.jpg,person,0.9553,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000623.jpg,teddy bear,0.95,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000623.jpg,chair,0.4986,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000094.jpg,car,0.959,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000094.jpg,truck,0.8277,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000094.jpg,car,0.3952,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000094.jpg,traffic light,0.3341,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000349.jpg,potted plant,0.968,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000349.jpg,potted plant,0.9057,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000349.jpg,potted plant,0.792,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000349.jpg,train,0.6471,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000349.jpg,potted plant,0.4098,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000471.jpg,bus,0.9212,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000142.jpg,banana,0.9789,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000142.jpg,sandwich,0.9668,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000142.jpg,bottle,0.9649,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000142.jpg,dining table,0.5937,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000436.jpg,donut,0.9448,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000436.jpg,person,0.9361,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000488.jpg,person,0.9564,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000488.jpg,person,0.9229,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000488.jpg,person,0.9115,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000488.jpg,person,0.9071,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000488.jpg,sports ball,0.8692,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000488.jpg,baseball glove,0.7652,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000488.jpg,person,0.7169,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000488.jpg,baseball bat,0.6603,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000397.jpg,chair,0.8075,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000397.jpg,cup,0.7533,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000397.jpg,cup,0.7184,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000397.jpg,pizza,0.6914,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000397.jpg,dining table,0.5336,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000397.jpg,person,0.4991,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000397.jpg,person,0.4304,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000397.jpg,person,0.2908,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000263.jpg,elephant,0.9086,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000263.jpg,elephant,0.9035,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000474.jpg,baseball glove,0.9748,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000474.jpg,person,0.8694,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000650.jpg,cat,0.9132,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000650.jpg,car,0.6478,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000307.jpg,dog,0.9674,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000307.jpg,car,0.9127,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000307.jpg,frisbee,0.8327,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000472.jpg,airplane,0.7447,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,umbrella,0.9231,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,person,0.8662,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,chair,0.8647,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,person,0.8559,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,umbrella,0.8424,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,person,0.8412,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,chair,0.8029,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,umbrella,0.7896,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,umbrella,0.7677,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,handbag,0.7305,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,chair,0.725,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,umbrella,0.7232,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,person,0.7192,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,umbrella,0.6998,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,chair,0.6301,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,person,0.5562,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,umbrella,0.5446,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,umbrella,0.54,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,umbrella,0.4822,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,umbrella,0.4784,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,chair,0.4521,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,chair,0.4326,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,umbrella,0.4269,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,umbrella,0.4023,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,umbrella,0.3901,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,chair,0.3784,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,chair,0.3414,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,umbrella,0.3316,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,umbrella,0.3291,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,chair,0.327,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,umbrella,0.3255,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,chair,0.3163,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,chair,0.3101,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,umbrella,0.306,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,umbrella,0.3054,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,umbrella,0.3026,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,umbrella,0.2963,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,umbrella,0.2932,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,umbrella,0.2833,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,person,0.2737,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000315.jpg,handbag,0.2692,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000597.jpg,elephant,0.9521,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000597.jpg,elephant,0.9453,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000597.jpg,elephant,0.9366,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000597.jpg,elephant,0.9345,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000597.jpg,elephant,0.9121,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000597.jpg,elephant,0.8774,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000597.jpg,elephant,0.6999,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000395.jpg,person,0.9338,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000395.jpg,person,0.923,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000395.jpg,person,0.8932,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000395.jpg,person,0.8472,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000395.jpg,person,0.8238,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000395.jpg,person,0.7514,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000395.jpg,person,0.683,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000395.jpg,person,0.6626,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000395.jpg,person,0.5436,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000395.jpg,person,0.5139,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000395.jpg,person,0.4978,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000395.jpg,cell phone,0.4568,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000395.jpg,person,0.4018,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000395.jpg,person,0.3793,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000395.jpg,person,0.3026,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,teddy bear,0.9795,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,bottle,0.9336,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,tv,0.9271,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,bowl,0.9062,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.8901,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.8605,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.7778,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.7539,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.7463,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.7396,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,teddy bear,0.7271,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.7017,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.6413,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.6123,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.6007,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.5955,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,bottle,0.5903,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.5801,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.5232,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.5167,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.5069,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.4443,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.4264,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.3879,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.3842,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.3834,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.3817,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.3742,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.3679,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.354,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.3477,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,teddy bear,0.3283,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.3185,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.3121,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.3097,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.3058,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.2915,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000643.jpg,book,0.2541,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000572.jpg,suitcase,0.9707,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000572.jpg,person,0.9015,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000572.jpg,person,0.861,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000490.jpg,dog,0.9776,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000490.jpg,skateboard,0.8148,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000321.jpg,hot dog,0.9937,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000321.jpg,hot dog,0.9907,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000321.jpg,sandwich,0.9473,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000154.jpg,zebra,0.9606,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000154.jpg,zebra,0.9595,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000154.jpg,zebra,0.9442,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,tennis racket,0.8028,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,chair,0.7888,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,person,0.7685,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,chair,0.7458,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,chair,0.7031,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,chair,0.6668,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,chair,0.6588,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,chair,0.6508,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,chair,0.6351,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,chair,0.6182,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,chair,0.6111,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,chair,0.608,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,chair,0.5782,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,chair,0.5672,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,person,0.5663,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,chair,0.5495,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,chair,0.5412,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,chair,0.5317,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,chair,0.4914,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,chair,0.4791,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,chair,0.4647,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,chair,0.4576,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,chair,0.3908,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,chair,0.3854,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,chair,0.3529,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,chair,0.3422,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,chair,0.3335,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,person,0.3326,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,chair,0.2718,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,chair,0.2572,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000564.jpg,chair,0.2521,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000034.jpg,zebra,0.9502,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000165.jpg,person,0.935,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000165.jpg,person,0.9255,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000165.jpg,tie,0.5198,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000042.jpg,dog,0.9464,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000360.jpg,person,0.8394,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000360.jpg,snowboard,0.7906,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000360.jpg,person,0.3307,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000360.jpg,person,0.2669,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000560.jpg,sink,0.9263,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000560.jpg,potted plant,0.9225,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000560.jpg,toilet,0.8906,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000560.jpg,sink,0.445,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000560.jpg,sink,0.4056,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000036.jpg,umbrella,0.9215,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000036.jpg,person,0.8854,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000404.jpg,boat,0.9288,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000404.jpg,boat,0.542,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000404.jpg,boat,0.4838,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000404.jpg,boat,0.4613,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000404.jpg,boat,0.434,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000404.jpg,boat,0.3535,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000081.jpg,airplane,0.9062,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000384.jpg,laptop,0.9921,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000384.jpg,couch,0.9494,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000384.jpg,clock,0.9358,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000384.jpg,remote,0.9111,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000384.jpg,book,0.9091,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000384.jpg,book,0.8554,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000384.jpg,mouse,0.8236,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000384.jpg,book,0.7421,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000384.jpg,laptop,0.6035,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000384.jpg,book,0.5788,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000384.jpg,book,0.4996,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000384.jpg,book,0.4975,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000384.jpg,book,0.4841,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000384.jpg,book,0.4191,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000384.jpg,book,0.3512,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000384.jpg,laptop,0.3359,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000384.jpg,book,0.3044,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000384.jpg,laptop,0.2987,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000384.jpg,book,0.2572,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000294.jpg,spoon,0.9538,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000294.jpg,clock,0.9172,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000294.jpg,person,0.8737,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000294.jpg,spoon,0.8235,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000294.jpg,spoon,0.748,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000294.jpg,spoon,0.681,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000294.jpg,spoon,0.6399,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000294.jpg,microwave,0.6129,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000294.jpg,spoon,0.6043,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000294.jpg,knife,0.5886,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000294.jpg,microwave,0.5839,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000294.jpg,spoon,0.5031,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000294.jpg,clock,0.4581,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000294.jpg,clock,0.427,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000294.jpg,knife,0.4049,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000294.jpg,spoon,0.3615,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000294.jpg,spoon,0.3224,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000294.jpg,spoon,0.3122,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000294.jpg,spoon,0.2913,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000294.jpg,knife,0.2539,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,refrigerator,0.9665,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,chair,0.8752,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,bottle,0.7926,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,bowl,0.7765,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,microwave,0.7668,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,bottle,0.732,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,wine glass,0.7008,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,bottle,0.6552,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,bottle,0.6422,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,wine glass,0.6409,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,bowl,0.6312,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,bottle,0.5933,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,bottle,0.5784,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,bottle,0.5778,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,wine glass,0.534,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,cup,0.5301,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,bottle,0.5189,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,bottle,0.5166,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,wine glass,0.512,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,wine glass,0.5089,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,wine glass,0.491,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,wine glass,0.4496,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,wine glass,0.441,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,cup,0.44,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,bottle,0.4202,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,cup,0.3833,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,wine glass,0.3625,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,oven,0.3531,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,wine glass,0.3456,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,wine glass,0.3284,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,bottle,0.3187,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,wine glass,0.3167,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,bottle,0.3102,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,wine glass,0.3006,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,bottle,0.2894,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,cup,0.2884,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,cup,0.2771,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,wine glass,0.2691,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000164.jpg,bottle,0.259,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000064.jpg,clock,0.9874,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000064.jpg,stop sign,0.9097,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000064.jpg,car,0.8314,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000064.jpg,truck,0.6149,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000133.jpg,bed,0.8586,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000133.jpg,teddy bear,0.5915,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000544.jpg,person,0.9235,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000544.jpg,person,0.9031,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000544.jpg,person,0.9016,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000544.jpg,baseball bat,0.8608,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000544.jpg,person,0.8363,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000544.jpg,person,0.8271,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000544.jpg,person,0.7079,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000544.jpg,person,0.6764,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000544.jpg,person,0.6568,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000544.jpg,person,0.6203,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000544.jpg,person,0.6088,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000544.jpg,baseball glove,0.5499,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000544.jpg,person,0.4042,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000544.jpg,baseball bat,0.3775,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000544.jpg,person,0.3501,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000072.jpg,giraffe,0.8994,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000072.jpg,giraffe,0.8831,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000072.jpg,giraffe,0.2535,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000071.jpg,car,0.8376,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000071.jpg,car,0.7172,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000071.jpg,car,0.6562,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000071.jpg,train,0.6273,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000071.jpg,car,0.5103,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000071.jpg,car,0.5015,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000071.jpg,car,0.4923,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000071.jpg,car,0.3448,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000071.jpg,car,0.3106,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000071.jpg,car,0.297,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000071.jpg,car,0.2843,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000071.jpg,car,0.2827,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000192.jpg,person,0.9576,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000192.jpg,person,0.9274,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000192.jpg,person,0.8894,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000192.jpg,person,0.7425,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000127.jpg,cup,0.9808,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000127.jpg,bench,0.9753,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000127.jpg,book,0.9683,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000127.jpg,knife,0.9659,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000127.jpg,bench,0.9513,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000127.jpg,dining table,0.9499,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000127.jpg,cake,0.935,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000127.jpg,spoon,0.9253,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000127.jpg,dining table,0.9173,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000127.jpg,umbrella,0.9093,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000127.jpg,umbrella,0.8357,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000127.jpg,potted plant,0.8126,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000127.jpg,handbag,0.78,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000127.jpg,bench,0.7782,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000127.jpg,umbrella,0.7134,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000127.jpg,book,0.5074,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000127.jpg,handbag,0.4114,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000127.jpg,umbrella,0.3214,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000127.jpg,potted plant,0.2796,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000127.jpg,umbrella,0.2618,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000127.jpg,bench,0.2583,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000030.jpg,vase,0.9874,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000030.jpg,potted plant,0.877,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000194.jpg,knife,0.865,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000194.jpg,pizza,0.8515,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000025.jpg,giraffe,0.9211,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000025.jpg,giraffe,0.8513,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
+000000000025.jpg,traffic light,0.3775,2025-01-01T00:00:00Z,yolov8n,0.868,SoCal Test Dataset
