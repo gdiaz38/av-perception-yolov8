@@ -216,7 +216,7 @@ with tab2:
 
     st.caption(f"Showing {len(disp)} of {len(performance)} classes")
     st.dataframe(
-        disp.style.applymap(color_conf, subset=["avg_confidence"]),
+        disp.style.map(color_conf, subset=["avg_confidence"]),
         use_container_width=True, height=400
     )
 
